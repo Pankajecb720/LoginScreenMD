@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginScreenMD</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="username_validation_msg">Username cannot be blank</string>
+    <string name="login_success">Successfully Logged In !</string>
+    <string name="pwd_validation_msg">Minimum 8 characters required</string>
+    <string name="username_hint">Username</string>
+    <string name="pwd_hint">Password</string>
+    <string name="login_btn_txt">Login</string>
+</resources>
